@@ -1,0 +1,4 @@
+dryeegからlabstreamLayerにて脳波情報の読み込み
+波形を表示
+sampleRate 500
+channels 22 
